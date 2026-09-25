@@ -5,12 +5,6 @@
 KIRI는 가족이 서로의 취향을 알아가고,
 함께하고 싶은 것을 발견해 **실제 가족의 시간으로 이어주는 서비스**입니다.
 
-가장 가까운 사이지만 생각보다 우리는
-가족이 무엇을 좋아하는지, 요즘 어디에 가고 싶은지,
-어떤 시간을 함께 보내고 싶은지 잘 모릅니다.
-
-KIRI는 이런 작은 거리에서 시작합니다.
-
 ---
 
 ## About KIRI
@@ -97,19 +91,6 @@ KIRI는 Product, Design, Client, Server가 함께 제품을 만들고 있습니�
 | Android | Android Application                  |
 | iOS     | iOS Application                      |
 | Server  | API · Database · Infrastructure      |
-
----
-
-## Repositories
-
-```text
-KIRI-Team
-├── KIRI-ANDROID
-├── KIRI-IOS
-└── KIRI-SERVER
-```
-
-각 레포지토리는 파트별 개발과 운영을 위해 독립적으로 관리합니다.
 
 ---
 
